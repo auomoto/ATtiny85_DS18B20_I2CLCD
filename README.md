@@ -3,7 +3,7 @@ ATtiny85_TWI_MCP23008_DS18B20_LCD
 
 This reads a DS18B20 1-Wire temperature sensor and prints the temperature on an LCD screen controlled by an I2C MCP23008 port expander.
 
-Work in progress; this might not work.
+Work in progress; this might not work. (see the TWI_SCAN project for later versions?)
 
 ATtiny85 details:
 
